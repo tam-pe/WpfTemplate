@@ -1,0 +1,2 @@
+# WpfTemplate
+WPF project template
